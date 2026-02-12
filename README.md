@@ -1,4 +1,4 @@
-<img src="SOORAJ SHET.png" width="1000" />
+<img src="SOORAJ SHET.png" width="1200" />
 
 
 ## Hi there 👋
