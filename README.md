@@ -10,7 +10,7 @@ Backend Developer | Clean Architecture Enthusiast
 I build reliable backend systems with a focus on scalability, structure, and performance.
 
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sooraj-Git&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sooraj-Git&layout=compact&theme=dark)
 
 ### 🛠 Tech Stack
