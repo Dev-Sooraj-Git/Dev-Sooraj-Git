@@ -11,6 +11,8 @@ I build reliable backend systems with a focus on scalability, structure, and per
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sooraj-Git&layout=compact&theme=dark)
+
 ### 🛠 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
