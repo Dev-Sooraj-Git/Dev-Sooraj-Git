@@ -10,12 +10,10 @@ Backend Developer | Clean Architecture Enthusiast
 I build reliable backend systems with a focus on scalability, structure, and performance.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sooraj-Git&show_icons=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sooraj-Git&layout=compact&theme=dark)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sooraj-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 🛠 Tech Stack
-
-## 🛠 Tech Stack
 
 ### Backend
 ![PHP](https://skillicons.dev/icons?i=php)
@@ -35,8 +33,6 @@ I build reliable backend systems with a focus on scalability, structure, and per
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="48" title="SQL Server"/>
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sooraj-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 🛠 Core Skills
 • PHP & Laravel  
