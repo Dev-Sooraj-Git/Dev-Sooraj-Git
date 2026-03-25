@@ -35,4 +35,4 @@ I build reliable enterprise workflow systems with a focus on clean architecture,
 ---
 
 ### 🤝 Let's Connect
-💼 Open to Backend Developer opportunities · [LinkedIn](https://linkedin.com/in/your-handle)
+💼 Open to Backend Developer opportunities · [LinkedIn](https://www.linkedin.com/in/sooraj-shet-ai-cse/)
