@@ -15,21 +15,21 @@ I build reliable backend systems with a focus on scalability, structure, and per
 
 ### 🛠 Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧠 Backend
+![Backend](https://skillicons.dev/icons?i=php,laravel)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=js,html,css)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🗄️ Database
+![Database](https://skillicons.dev/icons?i=mysql)
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🐍 Data / Scripting
+![Python](https://skillicons.dev/icons?i=python)
+
+### 🛠️ Tools
+![Tools](https://skillicons.dev/icons?i=git,postman)
 
 ### 🛠 Core Skills
 • PHP & Laravel  
