@@ -15,9 +15,28 @@ I build reliable backend systems with a focus on scalability, structure, and per
 
 ### 🛠 Tech Stack
 
-![Stack](https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,python,git,postman)
+## 🛠 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" />
+### Backend
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Python](https://skillicons.dev/icons?i=python)
+
+### Frontend
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### Databases & Tools
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="48" title="SQL Server"/>
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sooraj-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 🛠 Core Skills
 • PHP & Laravel  
