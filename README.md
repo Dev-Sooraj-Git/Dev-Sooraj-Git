@@ -9,9 +9,7 @@ I build reliable enterprise workflow systems with a focus on clean architecture,
 
 ### 🛠 Tech Stack
 
-### 🛠 Tech Stack
-
-<div align="center">
+<div align="left">
 
 **Backend**
 <br>
