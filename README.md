@@ -15,21 +15,9 @@ I build reliable backend systems with a focus on scalability, structure, and per
 
 ### 🛠 Tech Stack
 
-### 🧠 Backend  
-![Backend](https://skillicons.dev/icons?i=php,laravel)
+![Stack](https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,python,git,postman)
 
-### 🎨 Frontend  
-![Frontend](https://skillicons.dev/icons?i=js,html,css)
-
-### 🗄️ Database  
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="40"/>
-
-### 🐍 Data / Scripting  
-![Python](https://skillicons.dev/icons?i=python)
-
-### 🛠️ Tools  
-![Tools](https://skillicons.dev/icons?i=git,postman)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### 🛠 Core Skills
 • PHP & Laravel  
