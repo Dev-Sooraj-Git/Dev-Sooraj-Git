@@ -10,6 +10,7 @@ I build reliable enterprise workflow systems with a focus on clean architecture,
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Sooraj-Git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues)&nbsp;&nbsp;![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sooraj-Git&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter+notebook)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev-Sooraj-Git&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
