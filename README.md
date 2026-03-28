@@ -14,6 +14,9 @@ I build reliable enterprise workflow systems with a focus on clean architecture,
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sooraj-Git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-Sooraj-Git&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
