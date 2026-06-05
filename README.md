@@ -1,4 +1,4 @@
-<img src="SOORAJ SHET GPB.png" width="1200" />
+<img src="SoorajS GBB.png" width="1200" />
 
 ## 🚀 Featured Project: PromiseLane
 
