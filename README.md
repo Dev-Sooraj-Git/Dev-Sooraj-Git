@@ -15,11 +15,12 @@ A project governance platform that tracks client requirements, milestones, deliv
 I build reliable systems with a focus on clean architecture, performance, and scalability.
 
 ---
+<!--
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Dev-Sooraj-Git&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
+-->
 ---
 
 ### 🛠 Tech Stack
